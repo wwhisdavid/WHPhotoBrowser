@@ -10,43 +10,31 @@
 	<string>deyi-PhotoBroser</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>BFD2364D97054DB0D71A5B0B18145C6877C5EE31</key>
-		<string>de.isrv.us:deyi_ios/deyi-PhotoBroser.git</string>
-		<key>C4654A098939CE896EF9DEB3FC9A7E2E05332B8B</key>
-		<string>de.isrv.us:deyi_ios/deyi-share.git</string>
+		<key>03633D2C79C710C701C5BAFA3764F7853955E9FD</key>
+		<string>https://github.com/wwhisdavid/WHPhotoBrowser_for_deyi.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>deyi-PhotoBroser/deyi-PhotoBroser.xcworkspace</string>
+	<string>Demo/deyi-PhotoBroser.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>BFD2364D97054DB0D71A5B0B18145C6877C5EE31</key>
+		<key>03633D2C79C710C701C5BAFA3764F7853955E9FD</key>
 		<string>../..</string>
-		<key>C4654A098939CE896EF9DEB3FC9A7E2E05332B8B</key>
-		<string>../../../deyi-share_1</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>de.isrv.us:deyi_ios/deyi-PhotoBroser.git</string>
+	<string>https://github.com/wwhisdavid/WHPhotoBrowser_for_deyi.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>BFD2364D97054DB0D71A5B0B18145C6877C5EE31</string>
+	<string>03633D2C79C710C701C5BAFA3764F7853955E9FD</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>BFD2364D97054DB0D71A5B0B18145C6877C5EE31</string>
+			<string>03633D2C79C710C701C5BAFA3764F7853955E9FD</string>
 			<key>IDESourceControlWCCName</key>
-			<string>deyi-PhotoBroser</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>C4654A098939CE896EF9DEB3FC9A7E2E05332B8B</string>
-			<key>IDESourceControlWCCName</key>
-			<string>deyi-share_1</string>
+			<string>WHPhotoBrowser_for_deyi</string>
 		</dict>
 	</array>
 </dict>

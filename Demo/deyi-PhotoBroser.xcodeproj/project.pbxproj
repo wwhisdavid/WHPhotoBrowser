@@ -8,8 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		CB8F4BE4EC7CCBB207BE3726 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A8EBB3100EB47CC8BD875510 /* libPods.a */; };
-		E7C51CA21B5398D700762092 /* dy_share_pengyouquan.png in Resources */ = {isa = PBXBuildFile; fileRef = E7C51CA01B5398D700762092 /* dy_share_pengyouquan.png */; };
-		E7C51CA31B5398D700762092 /* dy_share_pengyouquan@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E7C51CA11B5398D700762092 /* dy_share_pengyouquan@2x.png */; };
+		E749AE5C1B54AAC30056034A /* dy_share_pengyouquan.png in Resources */ = {isa = PBXBuildFile; fileRef = E749AE5A1B54AAC30056034A /* dy_share_pengyouquan.png */; };
+		E749AE5D1B54AAC30056034A /* dy_share_pengyouquan@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E749AE5B1B54AAC30056034A /* dy_share_pengyouquan@2x.png */; };
 		E7C51CA71B53A96900762092 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E7C51CA61B53A96900762092 /* ViewController.m */; };
 		E7C51CAB1B53A98000762092 /* WHPhotoItem.m in Sources */ = {isa = PBXBuildFile; fileRef = E7C51CAA1B53A98000762092 /* WHPhotoItem.m */; };
 		E7C51CB51B53A9E600762092 /* WHBrowserImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = E7C51CAE1B53A9E600762092 /* WHBrowserImageView.m */; };
@@ -37,8 +37,8 @@
 		7624EB34AFE9302508B4790C /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 		A8EBB3100EB47CC8BD875510 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		E72937711B50B9B600C376EB /* WHPhotoBrowserConfig.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WHPhotoBrowserConfig.h; sourceTree = "<group>"; };
-		E7C51CA01B5398D700762092 /* dy_share_pengyouquan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dy_share_pengyouquan.png; path = "../../../deyi-share_1/DyShare/Resource/dy_share_pengyouquan.png"; sourceTree = "<group>"; };
-		E7C51CA11B5398D700762092 /* dy_share_pengyouquan@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "dy_share_pengyouquan@2x.png"; path = "../../../deyi-share_1/DyShare/Resource/dy_share_pengyouquan@2x.png"; sourceTree = "<group>"; };
+		E749AE5A1B54AAC30056034A /* dy_share_pengyouquan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dy_share_pengyouquan.png; path = ../../Resource/dy_share_pengyouquan.png; sourceTree = "<group>"; };
+		E749AE5B1B54AAC30056034A /* dy_share_pengyouquan@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "dy_share_pengyouquan@2x.png"; path = "../../Resource/dy_share_pengyouquan@2x.png"; sourceTree = "<group>"; };
 		E7C51CA51B53A96900762092 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		E7C51CA61B53A96900762092 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		E7C51CA91B53A98000762092 /* WHPhotoItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WHPhotoItem.h; sourceTree = "<group>"; };
@@ -162,8 +162,8 @@
 		E7CCBD7C1B50B4A9008C5283 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				E7C51CA01B5398D700762092 /* dy_share_pengyouquan.png */,
-				E7C51CA11B5398D700762092 /* dy_share_pengyouquan@2x.png */,
+				E749AE5A1B54AAC30056034A /* dy_share_pengyouquan.png */,
+				E749AE5B1B54AAC30056034A /* dy_share_pengyouquan@2x.png */,
 				E7CCBD7D1B50B4A9008C5283 /* Info.plist */,
 				E7CCBD7E1B50B4A9008C5283 /* main.m */,
 			);
@@ -287,9 +287,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E7C51CA21B5398D700762092 /* dy_share_pengyouquan.png in Resources */,
+				E749AE5C1B54AAC30056034A /* dy_share_pengyouquan.png in Resources */,
 				E7CCBD8D1B50B4A9008C5283 /* LaunchScreen.xib in Resources */,
-				E7C51CA31B5398D700762092 /* dy_share_pengyouquan@2x.png in Resources */,
+				E749AE5D1B54AAC30056034A /* dy_share_pengyouquan@2x.png in Resources */,
 				E7CCBD8A1B50B4A9008C5283 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
