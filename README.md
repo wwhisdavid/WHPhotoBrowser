@@ -9,4 +9,4 @@ CocoaPods安装方法： pod 'DyPhotoBrowser', :git => 'git@github.com:wwhisdavi
        
 本地（例）：pod 'DyPhotoBrowser', :podspec => '/Users/deyi/Documents/code/deyi-PhotoBroser/DyPhotoBrowser.podspec'
 
-
+支持url、本地图片、相册图片混用。
